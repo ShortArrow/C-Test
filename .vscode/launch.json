@@ -9,7 +9,7 @@
         "request": "launch",
         "program": "${workspaceFolder}/${fileBasenameNoExtension}.exe",
         "args": [],
-        "stopAtEntry": true,
+        "stopAtEntry": false,
         "cwd": "${workspaceFolder}",
         "environment": [],
         "externalConsole": false,
